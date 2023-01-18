@@ -25,7 +25,7 @@
     
 ##
     
-![Snake animation](https://github.com/herbetdesign/herbetdesign/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/herbetdesign/blob/output/github-contribution-grid-snake.svg)
     
 ##
 
