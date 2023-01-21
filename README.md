@@ -1,24 +1,30 @@
-<h1 align="center">Olá! 👋, Eu sou Herbet Santos</h1>
-<h3 align="center">Um apaixonado desenvolvedor web do Brasil</h3>
+## Olá!!! Eu sou o Herbet
+<div>
+  <a href="https://github.com/herbetdesign">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=herbetdesign&&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=herbetdesign&&show_icons=true&count_private=true&text_color=c9d1d9&bg_color=0d1117"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbetdesign" alt="herbetdesign" /></a> </p>
+##
 
-<p align="left"> <a href="https://twitter.com/herbetdesign" target="blank"><img src="https://img.shields.io/twitter/follow/herbetdesign?logo=twitter&style=for-the-badge" alt="herbetdesign" /></a> </p>
-
-<h3 align="left">Conectado</h3>
-<p align="left">
-<a href="https://twitter.com/herbetdesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herbetdesign" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/herbetsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herbetsantos" height="30" width="40" /></a>
-<a href="https://fb.com/herbetdesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="herbetdesign" height="30" width="40" /></a>
-<a href="https://instagram.com/herbetsantoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herbetsantoss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@herbetsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@herbetsantos" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e Ferramentas</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herbetdesign&show_icons=true&locale=en&layout=compact" alt="herbetdesign" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herbetdesign&show_icons=true&locale=en" alt="herbetdesign" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbetdesign&" alt="herbetdesign" /></p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Herbet-HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Herbet-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Herbet-WP" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Herbet-PHP" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Herbet-Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+</div>
+    
+##
+    
+<div>
+  <a href="https://github.com/herbetdesign" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://youtube.com/@herbetsantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/herbetsantoss/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/herbetdesign" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    </div>
+    
+##
+    
+![Snake animation](https://github.com/herbetdesign/herbetdesign/blob/output/github-contribution-grid-snake.svg)
+    
+##
