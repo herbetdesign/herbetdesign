@@ -1,8 +1,9 @@
 ## Olá!!! Eu sou o Herbet
 <div>
   <a href="https://github.com/herbetdesign">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=herbetdesign&&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=herbetdesign&&show_icons=true&count_private=true&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=herbetdesign&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbetdesign&show_icons=true&theme=dark&count_private=true&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
 
 ##
 
