@@ -12,7 +12,7 @@
   <img align="center" alt="Herbet-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Herbet-WP" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Herbet-PHP" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Herbet-AWS" heigth="30" width="40" src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Herbet-Bootstrap" heigth="30" width="40" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor">
 </div>
     
 ##
