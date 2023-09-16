@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou o Herbet
 <div>
   <a href="https://github.com/herbetdesign">
-  <img width="195px" weight="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbetdesign&hide_progress=true&show_icons=true&count_private=true&theme=dark&hide_border=false&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="195px" weight="48%" src="https://github-readme-stats.vercel.app/api?username=herbetdesign&show_icons=true&theme=transparent"/>
   <img width="195px" weight="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbetdesign&show_icons=true&theme=dark&count_private=true&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
