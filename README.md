@@ -99,8 +99,8 @@ Experimentos de classificação de texto para organizar mensagens de atendimento
 <!-- Os cartões abaixo são opcionais. Podem depender de serviços externos e não substituem a avaliação dos projetos. -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=herbetdesign&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbetdesign&layout=compact&theme=transparent" alt="Linguagens mais utilizadas" />
 </p>
 
 ## 🎯 Objetivo profissional
