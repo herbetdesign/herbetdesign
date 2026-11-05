@@ -1,12 +1,3 @@
-<!--
-README de perfil GitHub — versão inicial para candidatura iFood GenAI / AI Engineer.
-Antes de publicar:
-1. Substitua SEU_USUARIO pelo seu usuário GitHub em todos os links e imagens.
-2. Substitua os links de LinkedIn e e-mail pelos seus endereços reais (ou remova as linhas).
-3. Só mova projetos de "Em desenvolvimento" para "Projetos em destaque" quando estiverem publicados e executáveis.
-4. Remova qualquer tecnologia que você não tenha começado a estudar ou praticar.
--->
-
 <h1 align="center">Olá! 👋 Eu sou HERBET SANTOS</h1>
 <h3 align="center">Construindo soluções com Inteligência Artificial | AI Engineering</h3>
 
