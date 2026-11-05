@@ -12,7 +12,7 @@ Antes de publicar:
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="Visitas ao perfil" />
+    <img src="https://komarev.com/ghpvc/?username=herbetdesign&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="Visitas ao perfil" />
   </a>
   <img src="https://img.shields.io/badge/Foco-AI%20Engineering-6f42c1" alt="Foco AI Engineering" />
   <img src="https://img.shields.io/badge/Local-Brasil-009739" alt="Brasil" />
