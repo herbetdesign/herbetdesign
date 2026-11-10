@@ -1,44 +1,27 @@
-<h1 align="center">Olá! 👋 Eu sou HERBET SANTOS</h1>
-<h3 align="center">Construindo soluções com Inteligência Artificial | AI Engineering</h3>
+<h1 align="center">Olá! 👋 Eu sou Herbet Santos</h1>
+<h3 align="center">Construindo projetos de Inteligência Artificial e Engenharia de Software</h3>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=herbetdesign&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="Visitas ao perfil" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=herbetdesign&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="Visitas ao perfil" />
   <img src="https://img.shields.io/badge/Foco-AI%20Engineering-6f42c1" alt="Foco AI Engineering" />
   <img src="https://img.shields.io/badge/Local-Brasil-009739" alt="Brasil" />
 </p>
 
 ---
 
-###
-
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/herbetdesign/herbetdesign/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herbetdesign/herbetdesign/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/herbetdesign/herbetdesign/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/herbetdesign/herbetdesign/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-###
-
-<div data-importer="techs" align="center">
-</div>
-
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**. Estou direcionando minha trajetória para **Engenharia de IA**, com interesse em desenvolver aplicações que combinem Machine Learning, LLMs e boas práticas de Engenharia de Software.
 
-Meu foco de aprendizado e construção está em:
+Tenho praticado desenvolvimento com Python, APIs, RAG, avaliação de modelos, testes, documentação e reprodutibilidade. Os projetos abaixo são experimentais e documentam seus dados, decisões e limitações.
 
-- Desenvolvimento de aplicações de IA com **Python**.
-- Integração de **LLMs**, recuperação de conhecimento e arquiteturas **RAG**.
-- Construção de APIs e serviços com **FastAPI**.
-- Treinamento, avaliação e comparação de modelos de **Machine Learning**.
-- Testes, documentação, versionamento e reprodutibilidade.
-
-Gosto de transformar problemas práticos em soluções experimentais, documentando decisões técnicas, resultados, limitações e próximos passos.
-
-## 🧠 Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,linux" alt="Python, Git, GitHub, VS Code, Docker e Linux" />
@@ -51,45 +34,37 @@ Gosto de transformar problemas práticos em soluções experimentais, documentan
   <img src="https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge" alt="Pandas" />
 </p>
 
-> **Transparência:** esta seção representa ferramentas em estudo e prática. A profundidade de experiência será demonstrada nos repositórios, nos testes e nos resultados publicados.
+> Ferramentas em estudo e prática. Os repositórios descrevem o que foi implementado e as limitações de cada experimento.
 
-## 📌 Projetos em desenvolvimento
+## Projetos de portfólio
 
-### 1. FoodOps AI — Assistente de conhecimento com RAG
+### 1. FoodOps AI RAG — Assistente de conhecimento para delivery
 
-Aplicação experimental para responder perguntas operacionais com base em uma coleção de documentos, recuperando trechos relevantes e apresentando as fontes utilizadas.
+MVP didático que consulta documentos operacionais fictícios e responde com trechos de contexto e referências. Inclui carregamento e fragmentação de documentos, embeddings locais, ChromaDB, API FastAPI com documentação interativa em Swagger e avaliação da recuperação.
 
-**Objetivos técnicos:** ingestão e fragmentação de documentos, embeddings, busca semântica, API, avaliação de respostas e tratamento de perguntas sem evidência suficiente.
+**Limitações:** os documentos são fictícios; a interface disponível é o Swagger da API, sem frontend independente; não há demonstração hospedada publicamente.
 
-**Stack planejada:** Python · FastAPI · RAG · embeddings · banco vetorial · pytest.
+- [Código e documentação](https://github.com/herbetdesign/AI-Engineering-Generative-AI/tree/main/FoodOps%20AI%20RAG)
 
-**Repositório:** `em desenvolvimento — link será adicionado após a primeira versão funcional`.
+### 2. FoodIntent ML — Classificação de mensagens de atendimento
 
-### 2. Olist Demand Forecast — Previsão de demanda
+Classificador experimental de intenções em português para mensagens de delivery. Inclui comparação de modelos, API FastAPI executável localmente e publicação do modelo no Hugging Face. Os dados são sintéticos, e as previsões recomendam revisão humana.
 
-Experimento de Machine Learning com dados públicos de comércio eletrônico para estudar preparação de dados, construção de variáveis e previsão temporal.
+- [Código e documentação](https://github.com/herbetdesign/Machine-Learning-Data-Science/tree/main/FoodIntent%20ML)
+- [Modelo no Hugging Face](https://huggingface.co/herbetdesign/foodintent-ml)
 
-**Objetivos técnicos:** estabelecer baseline, evitar vazamento de dados, validar por ordem temporal, comparar modelos e documentar métricas.
+### 3. Olist — Análise de entregas e avaliações
 
-**Stack planejada:** Python · Pandas · NumPy · scikit-learn · Jupyter Notebook.
+Análise exploratória com o conjunto público de e-commerce da Olist. O notebook compara atrasos de entrega com avaliações de clientes. Os dados são de comércio eletrônico geral, não de pedidos de restaurantes; os resultados não representam o iFood.
 
-**Repositório:** `em desenvolvimento — link será adicionado após a primeira versão funcional`.
+- [Notebook público no Kaggle](https://www.kaggle.com/code/herbetdossantossilva/notebookf9534d4032)
+- [Artigo técnico e materiais](https://github.com/herbetdesign/Machine-Learning-Data-Science/tree/main/Kaggle%20%2B%20Artigo%20T%C3%A9cnico)
 
-### 3. FoodOps ML Experiments — Classificação de solicitações
+## Objetivo profissional
 
-Experimentos de classificação de texto para organizar mensagens de atendimento em categorias. O conjunto de dados e suas limitações serão descritos no notebook; dados sintéticos serão identificados explicitamente como sintéticos.
+Desenvolver minha carreira em **AI Engineering**, construindo sistemas de IA úteis, avaliáveis e sustentáveis do ponto de vista de Engenharia de Software. Tenho interesse de longo prazo em aplicar essas competências a soluções para saúde e outros serviços essenciais.
 
-**Objetivos técnicos:** TF-IDF, modelos baseline, matriz de confusão, precision, recall, F1-score e análise de erros.
-
-**Stack planejada:** Python · scikit-learn · Pandas · Jupyter Notebook.
-
-**Repositório:** `em desenvolvimento — link será adicionado após a primeira versão funcional`.
-
-## 🎯 Objetivo profissional
-
-Desenvolver minha carreira em **AI Engineering**, construindo sistemas de IA que sejam úteis, avaliáveis, seguros e sustentáveis do ponto de vista de Engenharia de Software. Tenho interesse de longo prazo em aplicar essas competências a soluções para saúde e outros serviços essenciais.
-
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/herbetsantos/">
